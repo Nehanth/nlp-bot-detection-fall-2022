@@ -1,1 +1,1 @@
-worker: python Final_TWI_BOT.ipynb
+worker: python firstdemo.py
